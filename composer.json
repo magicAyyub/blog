@@ -1,0 +1,16 @@
+{
+    "name": "ayyub/tp",
+    "description": "blog dynamique utilisant le CRUD",
+    "autoload": {
+        "psr-4": {
+            "App\\": "class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ayyub",
+            "email": "ayoubadoumbia041@gmail.com"
+        }
+    ],
+    "require": {}
+}
